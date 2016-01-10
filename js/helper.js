@@ -4,9 +4,6 @@ $(document).ready(function() {
     location.latitude = 0;
     location.longitude = 0;
 
-
-
-
 $('#exit-btn').click(function(){
         if (validateCurrentUser()) {
             Parse.User.logOut();

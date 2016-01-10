@@ -7,13 +7,13 @@
 	-ms-box-sizing: border-box;
 }
 
-
+/**
 @media only screen and (max-width: 500px){
 
 	p{
 		display: none;
 	}
-}
+}**/
 
 .container-fluid{
 
